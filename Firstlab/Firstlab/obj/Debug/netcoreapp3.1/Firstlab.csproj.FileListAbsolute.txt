@@ -1,0 +1,13 @@
+C:\Decstor\C#\Firstlab\Firstlab\bin\Debug\netcoreapp3.1\Firstlab.exe
+C:\Decstor\C#\Firstlab\Firstlab\bin\Debug\netcoreapp3.1\Firstlab.deps.json
+C:\Decstor\C#\Firstlab\Firstlab\bin\Debug\netcoreapp3.1\Firstlab.runtimeconfig.json
+C:\Decstor\C#\Firstlab\Firstlab\bin\Debug\netcoreapp3.1\Firstlab.runtimeconfig.dev.json
+C:\Decstor\C#\Firstlab\Firstlab\bin\Debug\netcoreapp3.1\Firstlab.dll
+C:\Decstor\C#\Firstlab\Firstlab\bin\Debug\netcoreapp3.1\Firstlab.pdb
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.csprojAssemblyReference.cache
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.AssemblyInfoInputs.cache
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.AssemblyInfo.cs
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.csproj.CoreCompileInputs.cache
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.dll
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.pdb
+C:\Decstor\C#\Firstlab\Firstlab\obj\Debug\netcoreapp3.1\Firstlab.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\bin\Debug\ThirdLab.exe.config
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\bin\Debug\ThirdLab.exe
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\bin\Debug\ThirdLab.pdb
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\obj\Debug\ThirdLab.csprojAssemblyReference.cache
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\obj\Debug\ThirdLab.csproj.CoreCompileInputs.cache
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\obj\Debug\ThirdLab.exe
+C:\Decstor\C#\ThirdLab\ThirdLab\ThirdLab\obj\Debug\ThirdLab.pdb
